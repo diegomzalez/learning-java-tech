@@ -1,5 +1,7 @@
-public class Character {
+
+class Boolean {
+
     public static void main(CString[] args) {
-        char charVar = 'Q';
+        boolean booleanVar = false;
     }
 }
